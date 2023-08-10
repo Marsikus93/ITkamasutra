@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Itkamasutra/static/css/main.073c9b0a.css",
-    "main.js": "/Itkamasutra/static/js/main.2c678790.js",
+    "main.js": "/Itkamasutra/static/js/main.bd1597a2.js",
     "static/js/787.177e23c2.chunk.js": "/Itkamasutra/static/js/787.177e23c2.chunk.js",
     "index.html": "/Itkamasutra/index.html",
     "main.073c9b0a.css.map": "/Itkamasutra/static/css/main.073c9b0a.css.map",
-    "main.2c678790.js.map": "/Itkamasutra/static/js/main.2c678790.js.map",
+    "main.bd1597a2.js.map": "/Itkamasutra/static/js/main.bd1597a2.js.map",
     "787.177e23c2.chunk.js.map": "/Itkamasutra/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2c678790.js"
+    "static/js/main.bd1597a2.js"
   ]
 }
