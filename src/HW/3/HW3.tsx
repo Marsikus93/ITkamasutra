@@ -21,7 +21,7 @@ export const HW3 = (props:TextType) => {
 
 
 const handleSave=()=>{
-    setTexts([...texts,currentText])
+    setTexts([...texts, currentText])
     setCurrentText('')
 }
   return (
